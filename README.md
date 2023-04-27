@@ -43,9 +43,9 @@
 
 Ответ:
 
-![screen1](https://github.com/)
-![screen2](https://github.com/)
-![screen3](https://github.com/)
+![screen1](https://github.com/KorolkovDenis/9.3-zabbix-part2/blob/main/screenshots/screen1.jpg)
+![screen2](https://github.com/KorolkovDenis/9.3-zabbix-part2/blob/main/screenshots/screen2.jpg)
+![screen3](https://github.com/KorolkovDenis/9.3-zabbix-part2/blob/main/screenshots/screen3.jpg)
 
  ---
 
@@ -88,29 +88,29 @@
 
 Созданные мной Item:
 
-![screen4](https://github.com/KorolkovDenis/)
-![screen5](https://github.com/KorolkovDenis/)
+![screen4](https://github.com/KorolkovDenis/9.3-zabbix-part2/blob/main/screenshots/screen4.jpg)
+![screen5](https://github.com/KorolkovDenis/9.3-zabbix-part2/blob/main/screenshots/screen5.jpg)
 
 Созданные мной шаблоны:
 
-![screen6](https://github.com/KorolkovDenis/)
-![screen7](https://github.com/KorolkovDenis/)
+![screen6](https://github.com/KorolkovDenis/9.3-zabbix-part2/blob/main/screenshots/screen6.jpg)
+![screen7](https://github.com/KorolkovDenis/9.3-zabbix-part2/blob/main/screenshots/screen7.jpg)
 
 Привязыываю шаблоны к хостам:
 
-![screen8](https://github.com/KorolkovDenis/)
-![screen9](https://github.com/KorolkovDenis/)
-![screen10](https://github.com/KorolkovDenis/)
-![screen11](https://github.com/KorolkovDenis/)
+![screen8](https://github.com/KorolkovDenis/9.3-zabbix-part2/blob/main/screenshots/screen8.jpg)
+![screen9](https://github.com/KorolkovDenis/9.3-zabbix-part2/blob/main/screenshots/screen9.jpg)
+![screen10](https://github.com/KorolkovDenis/9.3-zabbix-part2/blob/main/screenshots/screen10.jpg)
+![screen11](https://github.com/KorolkovDenis/9.3-zabbix-part2/blob/main/screenshots/screen11.jpg)
 
 Агенты связаны с сервером, шаблоны добавлены, видно по Items:
 
-![screen12](https://github.com/KorolkovDenis/)
+![screen12](https://github.com/KorolkovDenis/9.3-zabbix-part2/blob/main/screenshots/screen12.jpg)
 
 Данные мониторинга с добавленных шаблонов появились в Latest Data:
 
-![screen13](https://github.com/KorolkovDenis/)
-![screen14](https://github.com/KorolkovDenis/)
+![screen13](https://github.com/KorolkovDenis/9.3-zabbix-part2/blob/main/screenshots/screen13.jpg)
+![screen14](https://github.com/KorolkovDenis/9.3-zabbix-part2/blob/main/screenshots/screen14.jpg)
 
  ---
 
@@ -129,7 +129,7 @@
 
 Пример моего dashboards:
 
-![screen15](https://github.com/KorolkovDenis/)
+![screen15](https://github.com/KorolkovDenis/9.3-zabbix-part2/blob/main/screenshots/screen15.jpg)
 
  ---
 
@@ -144,7 +144,7 @@
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот карты, где видно, что триггер сработал, с названием «Задание 5» 
 
-![screen16](https://github.com/KorolkovDenis/)
+![screen16](https://github.com/KorolkovDenis/9.3-zabbix-part2/blob/main/screenshots/screen16.jpg)
 
 
  ---

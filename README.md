@@ -41,6 +41,12 @@
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 
+Ответ:
+
+![screen1](https://github.com/)
+![screen2](https://github.com/)
+![screen3](https://github.com/)
+
  ---
 
 ### Задание 2
@@ -71,6 +77,41 @@
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
 
+Ответ:
+
+Задание 2 и 3 объединены в этом ответе:
+
+Создал два шаблона: 
+
+группа CPU - шаблон my-VM (включает два мной созданных Item)
+группа Linux by Zabbix Agent Netology - шаблон взят с Linux by Zabbix Agent
+
+Созданные мной Item:
+
+![screen4](https://github.com/KorolkovDenis/)
+![screen5](https://github.com/KorolkovDenis/)
+
+Созданные мной шаблоны:
+
+![screen6](https://github.com/KorolkovDenis/)
+![screen7](https://github.com/KorolkovDenis/)
+
+Привязыываю шаблоны к хостам:
+
+![screen8](https://github.com/KorolkovDenis/)
+![screen9](https://github.com/KorolkovDenis/)
+![screen10](https://github.com/KorolkovDenis/)
+![screen11](https://github.com/KorolkovDenis/)
+
+Агенты связаны с сервером, шаблоны добавлены, видно по Items:
+
+![screen12](https://github.com/KorolkovDenis/)
+
+Данные мониторинга с добавленных шаблонов появились в Latest Data:
+
+![screen13](https://github.com/KorolkovDenis/)
+![screen14](https://github.com/KorolkovDenis/)
+
  ---
 
 ### Задание 4
@@ -84,6 +125,12 @@
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 
+Ответ:
+
+Пример моего dashboards:
+
+![screen15](https://github.com/KorolkovDenis/)
+
  ---
 
 ### Задание 5* со звёздочкой
@@ -96,6 +143,9 @@
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот карты, где видно, что триггер сработал, с названием «Задание 5» 
+
+![screen16](https://github.com/KorolkovDenis/)
+
 
  ---
 
